@@ -1,0 +1,5 @@
+*Glory of the Garden*
+I opened the photo in notepad and found the flag.
+
+*information*
+I opened the given photo in notepad. I found some links here and there. But none one of them actually had the flag. Then I saw a Base-64 text and tried decoding it using an online decoder. And I found the flag.  
