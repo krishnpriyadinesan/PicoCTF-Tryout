@@ -1,0 +1,8 @@
+*Mod 26*
+I used CyberChef to do this. I copy-pasted the string given and applied the ROT13 feature under encryption/encoding in that and I got the flag. This one was easy.
+
+*13*
+I did the same way as the above one.
+
+*The Numbers*
+In this we were given a png file with a lot of numbers in it. So I understood it was in a similar format as of the flag. Then I analyzed the picture more and I got that the first letter p is actually in the 16th position. Like that I found all of them and was able to find the flag.
